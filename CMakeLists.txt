@@ -3,4 +3,4 @@ project(LR2 C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(LR2 main.c)
+add_executable(LR2 main.c Func.c Func.h)
